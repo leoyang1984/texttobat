@@ -1,2 +1,2 @@
 pyinstaller
-wxPython==4.1.1
+wxPython
